@@ -6,7 +6,7 @@ const LINKS = [
   { key: "privacy", href: routeHref("privacy") },
   { key: "terms", href: routeHref("terms") },
   { key: "kvkk", href: routeHref("kvkk") },
-  { key: "contact", href: "mailto:destek@icindenevar.app" },
+  { key: "contact", href: "mailto:destek@icindenevar.online" },
 ] as const;
 
 const CURRENT_YEAR = new Date().getFullYear();
