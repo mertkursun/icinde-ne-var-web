@@ -1,0 +1,322 @@
+{
+  "nav": {
+    "download": "App Store'dan indir",
+    "langLabel": "Dil"
+  },
+  "hero": {
+    "title": "İçinde ne var?",
+    "lead": "Barkodu okut ya da etiketi çek. Gıda, kozmetik ve temizlik ürünlerinin içeriğini sade Türkçeyle anlatır; sana göre uyarır.",
+    "cta": "App Store'dan indir",
+    "note": "iOS için ücretsiz. Ayda 5 analiz hediye.",
+    "scanHint": "Ürünü çerçeveye al veya barkodunu okut"
+  },
+  "story": {
+    "title": "Taramadan skora, dört adım.",
+    "steps": [
+      {
+        "name": "Oku",
+        "text": "Barkod veya etiket fotoğrafı. Ön yüz, arka yüz, buruşuk etiket — fark etmez."
+      },
+      {
+        "name": "Eşleştir",
+        "text": "Her madde kayıtlı içerik veritabanıyla eşleşir: nedir, neden eklenmiş, kimler için sorun."
+      },
+      {
+        "name": "Kurallar",
+        "text": "Profilin devreye girer. Bebek, hamilelik, hassas cilt, alerji, vegan, diyabet — uyarılar sana göre."
+      },
+      {
+        "name": "Anlat",
+        "text": "Sonuç bir skor ve birkaç cümle sade açıklama. Kimya jargonu yok."
+      }
+    ],
+    "verdict": {
+      "safe": "Güvenli",
+      "caution": "Dikkat",
+      "risky": "Sakıncalı"
+    },
+    "scoreLabel": "İçerik skoru"
+  },
+  "audiences": {
+    "title": "Aynı ürün, herkese aynı değil.",
+    "lead": "Profilini seç. Bir bebek için sarı çıkan ürün senin için yeşil olabilir. Aile profilleriyle evdeki herkesin uyarısı ayrı ayrı hesaplanır.",
+    "items": {
+      "baby": "Bebek",
+      "pregnant": "Hamile",
+      "sensitive": "Hassas cilt",
+      "gluten": "Gluten alerjisi",
+      "lactose": "Laktoz intoleransı",
+      "peanut": "Fıstık alerjisi",
+      "vegan": "Vegan",
+      "diabetes": "Diyabet"
+    },
+    "familyNote": "6 aile profiline kadar",
+    "demo": {
+      "product": "Molfix Bebek Bezi No: 6",
+      "category": "Genel",
+      "safe": "Temel bileşenler güvenli; bu profil için ek bir uyarı yok.",
+      "caution": "Katmanları tutan yapıştırıcılar hassas bebek cildinde tahriş yapabilir. Kızarıklığı gözle."
+    }
+  },
+  "gallery": {
+    "title": "Rafın önünde işine yarayan her şey.",
+    "items": {
+      "discover": {
+        "name": "Keşfet",
+        "text": "Ürün adı veya barkodla ara, popüler ürünlerin skoruna bak."
+      },
+      "history": {
+        "name": "Geçmiş",
+        "text": "Taradığın her ürün, kategorisi ve skoruyla bir arada."
+      },
+      "favorites": {
+        "name": "Favoriler",
+        "text": "Güvendiğin ürünleri işaretle; bir dahakine arama."
+      },
+      "stats": {
+        "name": "İstatistikler",
+        "text": "Skor dağılımın, en çok taradığın kategoriler, tarama serin."
+      },
+      "family": {
+        "name": "Aile profilleri",
+        "text": "Her aile üyesi için ayrı profil, ayrı uyarı."
+      },
+      "alternatives": {
+        "name": "Daha temiz alternatifler",
+        "text": "Sarı ya da kırmızı çıkarsa yerine deneyebileceğin seçenekler."
+      }
+    }
+  },
+  "pro": {
+    "title": "Ayda 5 analiz ücretsiz. Gerisi Pro.",
+    "lead": "Aynı ürünü tekrar okutmak hakkından düşmez. Sınırsız analiz için Pro'ya geç; fiyatı uygulama içinde App Store üzerinden görürsün.",
+    "free": {
+      "name": "Ücretsiz",
+      "items": ["Ayda 5 yeni ürün analizi", "Barkod ve etiket fotoğrafı", "Kişisel profil ve uyarılar", "Geçmiş ve favoriler"]
+    },
+    "pro": {
+      "name": "Pro",
+      "items": ["Sınırsız analiz", "6 aile profili", "Daha temiz alternatif önerileri", "Ürün karşılaştırma"]
+    },
+    "cta": "App Store'dan indir"
+  },
+  "footer": {
+    "tagline": "Ne aldığını bil.",
+    "privacy": "Gizlilik",
+    "terms": "Kullanım koşulları",
+    "kvkk": "KVKK aydınlatma metni",
+    "contact": "İletişim",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "legal": {
+    "back": "Ana sayfaya dön",
+    "updated": "Son güncelleme: {{date}}",
+    "updatedDate": "9 Kasım 2026",
+    "contactLine": "Sorularınız için:",
+    "contactEmail": "destek@icindenevar.app",
+    "privacy": {
+      "title": "Gizlilik Politikası",
+      "intro": "Bu politika, İçinde Ne Var? uygulamasını ve bu web sitesini kullandığınızda hangi verileri topladığımızı, bunları neden işlediğimizi ve nasıl koruduğumuzu açıklar.",
+      "sections": [
+        {
+          "title": "Topladığımız veriler",
+          "body": [
+            "Hesap verileri: e-posta adresi, Google veya Apple ile giriş yaptıysanız bu hesaplardan gelen ad ve e-posta bilgisi.",
+            "Profil verileri: seçtiğiniz kitle bayrakları (bebek, hamilelik, hassas cilt, alerjiler, vegan, diyabet) ve oluşturduğunuz aile profilleri.",
+            "Kullanım verileri: taradığınız barkodlar, çektiğiniz etiket fotoğrafları, analiz geçmişi, favoriler, karşılaştırmalar, arama geçmişi, bildirim tercihleri ve abonelik durumu.",
+            "Teknik veriler: cihaz modeli, işletim sistemi sürümü, uygulama sürümü ve hata kayıtları."
+          ]
+        },
+        {
+          "title": "Verileri ne için kullanırız",
+          "body": [
+            "Hesabınızı oluşturmak ve oturumunuzu yönetmek; ürün içeriklerini analiz edip profilinize göre uyarı üretmek; geçmiş, favori ve istatistik gibi özellikleri sunmak; abonelik haklarınızı doğrulamak; hataları gidermek ve hizmeti iyileştirmek.",
+            "Verilerinizi reklam amacıyla satmıyor veya üçüncü taraflarla pazarlama için paylaşmıyoruz."
+          ]
+        },
+        {
+          "title": "Yapay zeka ile analiz",
+          "body": [
+            "İçerik analizi yalnızca sunucu tarafında, bir yapay zeka dil modeli sağlayıcısı aracılığıyla yapılır. Modele ürün içeriği, kategori ve seçtiğiniz kitle bayrakları iletilir; adınız veya e-postanız iletilmez.",
+            "Barkodla yapılan analizler, aynı ürünü okutan diğer kullanıcılara da hizmet vermek için anonim olarak önbelleğe alınır. Fotoğraftan yapılan analizler önbelleğe alınmaz ve yalnızca sizin geçmişinizde kalır."
+          ]
+        },
+        {
+          "title": "Hizmet sağlayıcılar",
+          "body": [
+            "Verileriniz şu sağlayıcılar aracılığıyla işlenir: Supabase (veritabanı, kimlik doğrulama, dosya depolama), Open Food Facts (barkod–ürün eşleme), yapay zeka analiz sağlayıcısı, Google ve Apple (isteğe bağlı giriş), RevenueCat ile App Store (abonelik yönetimi).",
+            "Bu sağlayıcılar verileri yalnızca bizim adımıza ve bu politikadaki amaçlarla işler."
+          ]
+        },
+        {
+          "title": "Saklama süresi",
+          "body": [
+            "Verileriniz hesabınız açık olduğu sürece saklanır. Hesabınızı sildiğinizde kişisel verileriniz 30 gün içinde kalıcı olarak silinir. Barkod bazlı anonim analiz önbelleği kişisel veri içermediği için saklanmaya devam edebilir."
+          ]
+        },
+        {
+          "title": "Güvenlik",
+          "body": [
+            "Tüm veri aktarımı TLS ile şifrelenir. Veritabanında satır düzeyinde erişim politikaları (RLS) uygulanır; her kullanıcı yalnızca kendi verisine erişebilir. Fotoğraflar yüklenmeden önce cihazda küçültülür ve erişimi kısıtlı bir depolama alanında tutulur."
+          ]
+        },
+        {
+          "title": "Çocuklar",
+          "body": [
+            "Uygulama 13 yaş altı çocuklara yönelik değildir. Bebek ve çocuk profilleri, ebeveynin kendi hesabı altında ve ebeveynin sorumluluğunda oluşturulur."
+          ]
+        },
+        {
+          "title": "Web sitesi ve çerezler",
+          "body": [
+            "Bu web sitesi analitik veya reklam çerezi kullanmaz. Yalnızca dil tercihinizi tarayıcınızın yerel depolama alanında tutar; bu bilgi bize iletilmez."
+          ]
+        },
+        {
+          "title": "Haklarınız",
+          "body": [
+            "Verilerinize erişme, düzeltme, silme ve işlemeye itiraz etme hakkınız vardır. Hesabınızı uygulama ayarlarından silebilir veya taleplerinizi aşağıdaki e-posta adresine iletebilirsiniz. Türkiye'de yaşayan kullanıcılar için KVKK kapsamındaki haklar ayrıca KVKK Aydınlatma Metni'nde açıklanmıştır."
+          ]
+        },
+        {
+          "title": "Değişiklikler",
+          "body": [
+            "Bu politikayı güncellediğimizde yeni sürümü bu sayfada yayınlar ve güncelleme tarihini değiştiririz. Önemli değişikliklerde uygulama içinden ayrıca bilgilendiririz."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Kullanım Koşulları",
+      "intro": "İçinde Ne Var? uygulamasını indirerek veya kullanarak bu koşulları kabul etmiş olursunuz. Lütfen dikkatle okuyun.",
+      "sections": [
+        {
+          "title": "Hizmetin tanımı",
+          "body": [
+            "İçinde Ne Var?, gıda, kozmetik ve temizlik ürünlerinin içeriklerini barkod veya etiket fotoğrafı üzerinden analiz eden, sade bir açıklama ve skor üreten, seçtiğiniz profile göre uyarı veren bir bilgilendirme uygulamasıdır.",
+            "Uygulama tıbbi, diyetetik veya dermatolojik tavsiye vermez; bir sağlık profesyonelinin yerini tutmaz."
+          ]
+        },
+        {
+          "title": "Hesap",
+          "body": [
+            "Hesap oluşturmak için e-posta doğrulaması, Google veya Apple ile giriş kullanılır. Hesabınızın güvenliğinden ve hesabınız altında yapılan işlemlerden siz sorumlusunuz.",
+            "Aile profili oluşturduğunuz kişilerin verilerini girmeye yetkili olduğunuzu kabul edersiniz."
+          ]
+        },
+        {
+          "title": "Ücretsiz plan ve Pro abonelik",
+          "body": [
+            "Ücretsiz plan her ay sınırlı sayıda yeni ürün analizi sunar. Daha önce analiz edilmiş bir ürünü tekrar okutmak kotadan düşmez.",
+            "Pro abonelik sınırsız analiz, aile profilleri ve ek özellikler sunar. Abonelik App Store üzerinden satın alınır, fiyatı satın alma anında App Store'da gösterilir ve dönem sonunda otomatik yenilenir. İptal ve iade işlemleri App Store hesap ayarlarınızdan Apple'ın kurallarına göre yapılır."
+          ]
+        },
+        {
+          "title": "Analiz sonuçlarının niteliği",
+          "body": [
+            "Analizler yapay zeka ile üretilir ve kamuya açık içerik veritabanlarına dayanır. Sonuçlar eksik, güncel olmayan veya hatalı olabilir; ürün formülleri zaman içinde değişebilir.",
+            "Alerjiniz, kronik hastalığınız veya özel bir sağlık durumunuz varsa ürün etiketini her zaman kendiniz okuyun ve kararınızı uygulamaya değil etikete ve uzman görüşüne dayandırın."
+          ]
+        },
+        {
+          "title": "Kullanım kuralları",
+          "body": [
+            "Uygulamayı yalnızca kişisel ve ticari olmayan amaçlarla kullanabilirsiniz. Otomatik araçlarla veri çekmek, tersine mühendislik yapmak, hizmeti kötüye kullanmak veya başkalarının hesaplarına erişmeye çalışmak yasaktır."
+          ]
+        },
+        {
+          "title": "Fikri mülkiyet",
+          "body": [
+            "Uygulama, marka, tasarım, metin ve yazılım İçinde Ne Var?'a aittir. Ürün adları ve markaları ilgili hak sahiplerine aittir ve yalnızca bilgilendirme amacıyla gösterilir."
+          ]
+        },
+        {
+          "title": "Sorumluluğun sınırlandırılması",
+          "body": [
+            "Uygulama \"olduğu gibi\" sunulur. Analiz sonuçlarına dayanarak aldığınız kararlardan, satın aldığınız veya kullandığınız ürünlerden doğan zararlardan yürürlükteki hukukun izin verdiği azami ölçüde sorumlu değiliz."
+          ]
+        },
+        {
+          "title": "Hesabın silinmesi ve askıya alma",
+          "body": [
+            "Hesabınızı istediğiniz zaman uygulama ayarlarından silebilirsiniz. Aktif bir aboneliğiniz varsa App Store'dan ayrıca iptal etmeniz gerekir.",
+            "Bu koşulları ihlal eden hesapları askıya alma veya kapatma hakkımız saklıdır."
+          ]
+        },
+        {
+          "title": "Değişiklikler ve uygulanacak hukuk",
+          "body": [
+            "Koşulları güncelleyebiliriz; güncel sürüm bu sayfada yayınlandığı anda yürürlüğe girer. Uygulamayı kullanmaya devam etmeniz kabul anlamına gelir.",
+            "Bu koşullar Türkiye Cumhuriyeti hukukuna tabidir."
+          ]
+        }
+      ]
+    },
+    "kvkk": {
+      "title": "KVKK Aydınlatma Metni",
+      "intro": "6698 sayılı Kişisel Verilerin Korunması Kanunu'nun 10. maddesi uyarınca, kişisel verilerinizin işlenmesine ilişkin olarak aşağıdaki hususlarda sizi bilgilendiriyoruz.",
+      "sections": [
+        {
+          "title": "Veri sorumlusu",
+          "body": [
+            "Kişisel verileriniz, veri sorumlusu sıfatıyla İçinde Ne Var? uygulamasının geliştiricisi tarafından işlenmektedir. İletişim bilgileri bu sayfanın sonunda yer almaktadır."
+          ]
+        },
+        {
+          "title": "İşlenen kişisel veriler",
+          "body": [
+            "Kimlik ve iletişim: ad, e-posta adresi.",
+            "Profil: kitle bayrakları (bebek, hamilelik, hassas cilt, gluten, laktoz, fıstık, vegan, diyabet), aile profilleri.",
+            "Kullanım: barkod ve ürün tarama geçmişi, etiket fotoğrafları, favoriler, karşılaştırmalar, arama geçmişi, istatistikler, bildirim tercihleri.",
+            "İşlem güvenliği: cihaz bilgisi, oturum kayıtları, abonelik durumu.",
+            "Hamilelik, alerji ve kronik hastalık gibi profil tercihleri KVKK kapsamında özel nitelikli kişisel veri (sağlık verisi) sayılabilir; bu veriler yalnızca sizin açık rızanızla ve seçtiğiniz ölçüde işlenir."
+          ]
+        },
+        {
+          "title": "İşleme amaçları",
+          "body": [
+            "Üyelik ve hesap yönetimi; ürün içeriği analizi ve profil bazlı uyarıların üretilmesi; aile profili bazlı kişiselleştirme; geçmiş, favori, karşılaştırma ve istatistik özelliklerinin sunulması; abonelik haklarının doğrulanması; bildirim gönderimi; hizmetin güvenliğinin sağlanması ve iyileştirilmesi; yasal yükümlülüklerin yerine getirilmesi."
+          ]
+        },
+        {
+          "title": "Hukuki sebepler",
+          "body": [
+            "Verileriniz KVKK 5. madde kapsamında; sözleşmenin kurulması ve ifası, veri sorumlusunun meşru menfaati, hukuki yükümlülüğün yerine getirilmesi ve — özel nitelikli veriler için KVKK 6. madde uyarınca — açık rızanız hukuki sebeplerine dayanılarak işlenir.",
+            "Profil tercihlerini dilediğiniz zaman uygulama içinden kaldırarak açık rızanızı geri alabilirsiniz."
+          ]
+        },
+        {
+          "title": "Verilerin aktarılması",
+          "body": [
+            "Verileriniz, hizmetin sunulması için gerekli olduğu ölçüde yurt dışında bulunan altyapı ve hizmet sağlayıcılara aktarılabilir: Supabase (veritabanı, kimlik doğrulama, depolama), yapay zeka analiz sağlayıcısı, Open Food Facts (ürün eşleme), Google ve Apple (giriş), RevenueCat ve Apple (abonelik).",
+            "Yurt dışı aktarım, KVKK 9. maddesi kapsamında açık rızanıza ve/veya Kurul tarafından öngörülen güvencelere dayanılarak gerçekleştirilir."
+          ]
+        },
+        {
+          "title": "Toplama yöntemi",
+          "body": [
+            "Kişisel verileriniz, mobil uygulama üzerinden kayıt olmanız, profil oluşturmanız, ürün taramanız ve uygulamayı kullanmanız sırasında elektronik ortamda otomatik yollarla toplanır."
+          ]
+        },
+        {
+          "title": "Saklama süresi",
+          "body": [
+            "Kişisel verileriniz üyeliğiniz süresince saklanır; hesabınızı sildiğinizde 30 gün içinde silinir veya anonim hale getirilir. Mevzuattan kaynaklanan saklama yükümlülükleri saklıdır."
+          ]
+        },
+        {
+          "title": "KVKK 11. madde kapsamındaki haklarınız",
+          "body": [
+            "Kişisel verilerinizin işlenip işlenmediğini öğrenme; işlenmişse bilgi talep etme; işlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme; yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme; eksik veya yanlış işlenmişse düzeltilmesini isteme; silinmesini veya yok edilmesini isteme; bu işlemlerin aktarıldığı üçüncü kişilere bildirilmesini isteme; münhasıran otomatik sistemlerle analiz edilmesi sonucu aleyhinize bir sonucun ortaya çıkmasına itiraz etme; kanuna aykırı işleme nedeniyle zarara uğramanız halinde zararın giderilmesini talep etme."
+          ]
+        },
+        {
+          "title": "Başvuru yolu",
+          "body": [
+            "Haklarınıza ilişkin taleplerinizi uygulama içindeki Ayarlar > Hesap bölümünden veya aşağıdaki e-posta adresine yazılı olarak iletebilirsiniz. Başvurular en geç 30 gün içinde ücretsiz olarak sonuçlandırılır."
+          ]
+        }
+      ]
+    }
+  }
+}

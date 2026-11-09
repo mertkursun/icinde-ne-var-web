@@ -1,0 +1,32 @@
+:root {
+  --bg: #0a1514;
+  --bg-deep: #070f0e;
+  --surface: #112120;
+  --surface-2: #143230;
+  --border: #1e3230;
+
+  --teal: #2dd4bf;
+  --teal-soft: #5eead4;
+  --teal-ink: #04302c;
+  --teal-glow: rgba(45, 212, 191, 0.28);
+
+  --ink: #f1f5f3;
+  --ink-2: #a4b4b0;
+  --mute: #6e807c;
+
+  --ok: #3bd98a;
+  --warn: #f5c242;
+  --bad: #f36b6b;
+  --warn-bg: #7a6a2a;
+
+  --font-display: "Bricolage Grotesque", "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-body: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+
+  --radius-pill: 999px;
+  --radius-card: 28px;
+
+  --gutter: clamp(20px, 5vw, 72px);
+  --measure: 36rem;
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}

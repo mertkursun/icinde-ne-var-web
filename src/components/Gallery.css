@@ -1,0 +1,78 @@
+.gallery {
+  position: relative;
+  padding: clamp(60px, 10vh, 120px) 0 0;
+}
+
+.gallery--pinned {
+  padding: 0;
+}
+
+.gallery__sticky {
+  display: grid;
+  gap: 40px;
+}
+
+.gallery--pinned .gallery__sticky {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  padding-top: 84px;
+  align-content: center;
+  overflow: hidden;
+}
+
+.gallery__title {
+  max-width: 20ch;
+}
+
+.gallery--pinned .gallery__title {
+  font-size: clamp(28px, 3.6vw, 48px);
+}
+
+.gallery--pinned .gallery__sticky {
+  gap: 28px;
+}
+
+.gallery__track {
+  display: flex;
+  gap: clamp(20px, 3vw, 40px);
+  padding-inline: max(var(--gutter), calc((100% - 1180px) / 2));
+  will-change: transform;
+}
+
+.gallery:not(.gallery--pinned) .gallery__track {
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-padding-inline: var(--gutter);
+  padding-bottom: 24px;
+  scrollbar-width: none;
+}
+
+.gallery:not(.gallery--pinned) .gallery__track::-webkit-scrollbar {
+  display: none;
+}
+
+.gcard {
+  flex: 0 0 auto;
+  width: clamp(220px, 20vw, 270px);
+  scroll-snap-align: start;
+}
+
+.gallery--pinned .gcard {
+  width: min(clamp(200px, 18vw, 260px), 25vh);
+}
+
+.gcard__phone {
+  margin-bottom: 20px;
+}
+
+.gcard__name {
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+.gcard__text {
+  color: var(--ink-2);
+  font-size: 15px;
+  text-wrap: pretty;
+}

@@ -1,0 +1,79 @@
+.pro {
+  padding: clamp(80px, 12vh, 160px) 0;
+}
+
+.pro__head {
+  display: grid;
+  gap: 20px;
+  margin-bottom: 48px;
+  max-width: 44rem;
+}
+
+.pro__plans {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+}
+
+.plan {
+  padding: 32px;
+  border-radius: var(--radius-card);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  display: grid;
+  gap: 24px;
+  align-content: start;
+}
+
+.plan--pro {
+  background:
+    radial-gradient(120% 80% at 100% 0%, rgba(45, 212, 191, 0.18), transparent 60%),
+    var(--surface-2);
+  border-color: rgba(45, 212, 191, 0.35);
+  box-shadow: 0 40px 80px -40px var(--teal-glow);
+}
+
+.plan__name {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 26px;
+}
+
+.plan--pro .plan__name {
+  color: var(--teal-soft);
+}
+
+.plan__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 12px;
+}
+
+.plan__list li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--ink-2);
+}
+
+.plan__list svg {
+  flex: 0 0 auto;
+  color: var(--teal);
+}
+
+.plan__cta {
+  margin-top: 8px;
+}
+
+@media (max-width: 760px) {
+  .pro__plans {
+    grid-template-columns: 1fr;
+  }
+
+  .plan {
+    padding: 24px;
+  }
+}

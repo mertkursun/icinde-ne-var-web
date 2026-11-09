@@ -1,0 +1,322 @@
+{
+  "nav": {
+    "download": "Download on the App Store",
+    "langLabel": "Language"
+  },
+  "hero": {
+    "title": "What's inside?",
+    "lead": "Scan the barcode or snap the label. It explains what's in your food, cosmetics and cleaning products in plain language, and warns you based on who you are.",
+    "cta": "Download on the App Store",
+    "note": "Free on iOS. 5 analyses a month on us.",
+    "scanHint": "Frame the product or scan its barcode"
+  },
+  "story": {
+    "title": "From scan to score in four steps.",
+    "steps": [
+      {
+        "name": "Read",
+        "text": "A barcode or a photo of the label. Front, back, crumpled — it doesn't matter."
+      },
+      {
+        "name": "Match",
+        "text": "Every ingredient is matched against our database: what it is, why it's there, who should care."
+      },
+      {
+        "name": "Rules",
+        "text": "Your profile kicks in. Baby, pregnancy, sensitive skin, allergies, vegan, diabetes — the warnings are yours."
+      },
+      {
+        "name": "Explain",
+        "text": "You get a score and a few plain sentences. No chemistry jargon."
+      }
+    ],
+    "verdict": {
+      "safe": "Safe",
+      "caution": "Caution",
+      "risky": "Avoid"
+    },
+    "scoreLabel": "Ingredient score"
+  },
+  "audiences": {
+    "title": "Same product, not the same for everyone.",
+    "lead": "Pick your profile. A product that's yellow for a baby might be green for you. With family profiles, everyone at home gets their own verdict.",
+    "items": {
+      "baby": "Baby",
+      "pregnant": "Pregnant",
+      "sensitive": "Sensitive skin",
+      "gluten": "Gluten allergy",
+      "lactose": "Lactose intolerance",
+      "peanut": "Peanut allergy",
+      "vegan": "Vegan",
+      "diabetes": "Diabetes"
+    },
+    "familyNote": "Up to 6 family profiles",
+    "demo": {
+      "product": "Molfix Baby Diaper Size 6",
+      "category": "General",
+      "safe": "Core ingredients are safe; no extra warnings for this profile.",
+      "caution": "The adhesives holding the layers together can irritate sensitive baby skin. Watch for redness."
+    }
+  },
+  "gallery": {
+    "title": "Everything you need in front of the shelf.",
+    "items": {
+      "discover": {
+        "name": "Discover",
+        "text": "Search by name or barcode, check the score of popular products."
+      },
+      "history": {
+        "name": "History",
+        "text": "Every product you've scanned, with category and score."
+      },
+      "favorites": {
+        "name": "Favorites",
+        "text": "Mark the products you trust; skip the search next time."
+      },
+      "stats": {
+        "name": "Stats",
+        "text": "Your score breakdown, most-scanned categories, scanning streak."
+      },
+      "family": {
+        "name": "Family profiles",
+        "text": "A separate profile and separate warnings for each family member."
+      },
+      "alternatives": {
+        "name": "Cleaner alternatives",
+        "text": "When it's yellow or red, options you can try instead."
+      }
+    }
+  },
+  "pro": {
+    "title": "5 analyses a month, free. The rest is Pro.",
+    "lead": "Rescanning the same product never counts against you. Go Pro for unlimited analyses; pricing is shown in the app via the App Store.",
+    "free": {
+      "name": "Free",
+      "items": ["5 new product analyses a month", "Barcode and label photo", "Personal profile and warnings", "History and favorites"]
+    },
+    "pro": {
+      "name": "Pro",
+      "items": ["Unlimited analyses", "6 family profiles", "Cleaner alternative suggestions", "Product comparison"]
+    },
+    "cta": "Download on the App Store"
+  },
+  "footer": {
+    "tagline": "Know what you're buying.",
+    "privacy": "Privacy",
+    "terms": "Terms of use",
+    "kvkk": "Data protection notice",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "legal": {
+    "back": "Back to home",
+    "updated": "Last updated: {{date}}",
+    "updatedDate": "9 November 2026",
+    "contactLine": "Questions:",
+    "contactEmail": "destek@icindenevar.app",
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "This policy explains what data we collect when you use the İçinde Ne Var? app and this website, why we process it, and how we protect it.",
+      "sections": [
+        {
+          "title": "Data we collect",
+          "body": [
+            "Account data: your email address and, if you sign in with Google or Apple, the name and email provided by those accounts.",
+            "Profile data: the audience flags you choose (baby, pregnancy, sensitive skin, allergies, vegan, diabetes) and any family profiles you create.",
+            "Usage data: scanned barcodes, label photos you take, analysis history, favorites, comparisons, search history, notification preferences and subscription status.",
+            "Technical data: device model, OS version, app version and crash logs."
+          ]
+        },
+        {
+          "title": "How we use it",
+          "body": [
+            "To create your account and keep you signed in; to analyze product ingredients and generate warnings based on your profile; to provide history, favorites and statistics; to verify your subscription; to fix bugs and improve the service.",
+            "We do not sell your data or share it with third parties for advertising."
+          ]
+        },
+        {
+          "title": "AI analysis",
+          "body": [
+            "Ingredient analysis runs only on our servers through an AI language model provider. The model receives the product's ingredients, category and your selected audience flags; it never receives your name or email.",
+            "Barcode-based analyses are cached anonymously so other users scanning the same product benefit from them. Photo-based analyses are not cached and stay in your history only."
+          ]
+        },
+        {
+          "title": "Service providers",
+          "body": [
+            "Your data is processed through: Supabase (database, authentication, file storage), Open Food Facts (barcode-to-product matching), our AI analysis provider, Google and Apple (optional sign-in), and RevenueCat with the App Store (subscription management).",
+            "These providers process data only on our behalf and for the purposes described here."
+          ]
+        },
+        {
+          "title": "Retention",
+          "body": [
+            "We keep your data while your account is active. When you delete your account, your personal data is permanently erased within 30 days. The anonymous barcode analysis cache contains no personal data and may be retained."
+          ]
+        },
+        {
+          "title": "Security",
+          "body": [
+            "All traffic is encrypted with TLS. Row-level security policies in the database ensure each user can access only their own data. Photos are downscaled on the device before upload and stored in access-restricted storage."
+          ]
+        },
+        {
+          "title": "Children",
+          "body": [
+            "The app is not directed at children under 13. Baby and child profiles are created under a parent's own account and under the parent's responsibility."
+          ]
+        },
+        {
+          "title": "Website and cookies",
+          "body": [
+            "This website uses no analytics or advertising cookies. It only stores your language preference in your browser's local storage; this is never sent to us."
+          ]
+        },
+        {
+          "title": "Your rights",
+          "body": [
+            "You can access, correct and delete your data, and object to processing. Delete your account from the app's settings or send a request to the email below. Users in Türkiye have additional rights under KVKK, described in the Data Protection Notice."
+          ]
+        },
+        {
+          "title": "Changes",
+          "body": [
+            "When we update this policy we publish the new version here and change the date above. For material changes we also notify you in the app."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Use",
+      "intro": "By downloading or using İçinde Ne Var? you agree to these terms. Please read them carefully.",
+      "sections": [
+        {
+          "title": "What the service is",
+          "body": [
+            "İçinde Ne Var? is an informational app that analyzes the ingredients of food, cosmetic and cleaning products from a barcode or label photo, produces a plain-language explanation and a score, and warns you based on the profile you select.",
+            "The app does not provide medical, dietary or dermatological advice and is not a substitute for a health professional."
+          ]
+        },
+        {
+          "title": "Your account",
+          "body": [
+            "Accounts are created with email verification, Google or Apple sign-in. You are responsible for the security of your account and for activity under it.",
+            "By creating family profiles you confirm you are entitled to enter data about those people."
+          ]
+        },
+        {
+          "title": "Free plan and Pro subscription",
+          "body": [
+            "The free plan includes a limited number of new product analyses each month. Rescanning a product that has already been analyzed does not count against your quota.",
+            "Pro offers unlimited analyses, family profiles and additional features. Subscriptions are purchased through the App Store, priced as shown there at the time of purchase, and renew automatically at the end of each period. Cancellations and refunds are handled through your App Store account under Apple's rules."
+          ]
+        },
+        {
+          "title": "Nature of the results",
+          "body": [
+            "Analyses are generated by AI and rely on public ingredient databases. Results may be incomplete, outdated or wrong; product formulas change over time.",
+            "If you have an allergy, a chronic condition or any special health situation, always read the product label yourself and base your decision on the label and professional advice, not on the app."
+          ]
+        },
+        {
+          "title": "Acceptable use",
+          "body": [
+            "You may use the app for personal, non-commercial purposes only. Scraping, reverse engineering, abusing the service or attempting to access other users' accounts is prohibited."
+          ]
+        },
+        {
+          "title": "Intellectual property",
+          "body": [
+            "The app, brand, design, text and software belong to İçinde Ne Var?. Product names and brands belong to their respective owners and are shown for information only."
+          ]
+        },
+        {
+          "title": "Limitation of liability",
+          "body": [
+            "The app is provided \"as is\". To the fullest extent permitted by law, we are not liable for decisions you make based on analysis results or for damages arising from products you buy or use."
+          ]
+        },
+        {
+          "title": "Account deletion and suspension",
+          "body": [
+            "You can delete your account at any time from the app's settings. If you have an active subscription you must also cancel it through the App Store.",
+            "We may suspend or close accounts that violate these terms."
+          ]
+        },
+        {
+          "title": "Changes and governing law",
+          "body": [
+            "We may update these terms; the current version takes effect when published on this page. Continued use means acceptance.",
+            "These terms are governed by the laws of the Republic of Türkiye."
+          ]
+        }
+      ]
+    },
+    "kvkk": {
+      "title": "Data Protection Notice (KVKK)",
+      "intro": "Under Article 10 of Türkiye's Personal Data Protection Law No. 6698 (KVKK), we inform you about how your personal data is processed.",
+      "sections": [
+        {
+          "title": "Data controller",
+          "body": [
+            "Your personal data is processed by the developer of the İçinde Ne Var? app acting as data controller. Contact details are at the end of this page."
+          ]
+        },
+        {
+          "title": "Personal data processed",
+          "body": [
+            "Identity and contact: name, email address.",
+            "Profile: audience flags (baby, pregnancy, sensitive skin, gluten, lactose, peanut, vegan, diabetes), family profiles.",
+            "Usage: barcode and product scan history, label photos, favorites, comparisons, search history, statistics, notification preferences.",
+            "Transaction security: device information, session logs, subscription status.",
+            "Profile preferences such as pregnancy, allergies and chronic conditions may qualify as special categories of personal data (health data) under KVKK; they are processed only with your explicit consent and only to the extent you choose."
+          ]
+        },
+        {
+          "title": "Purposes of processing",
+          "body": [
+            "Membership and account management; ingredient analysis and profile-based warnings; family-profile personalization; history, favorites, comparison and statistics features; subscription verification; notifications; securing and improving the service; meeting legal obligations."
+          ]
+        },
+        {
+          "title": "Legal grounds",
+          "body": [
+            "Your data is processed under KVKK Article 5 on the grounds of performance of a contract, the legitimate interests of the data controller and compliance with legal obligations, and — for special categories under Article 6 — your explicit consent.",
+            "You may withdraw consent at any time by removing profile preferences in the app."
+          ]
+        },
+        {
+          "title": "Transfers",
+          "body": [
+            "To the extent necessary to provide the service, your data may be transferred to infrastructure and service providers located abroad: Supabase (database, authentication, storage), our AI analysis provider, Open Food Facts (product matching), Google and Apple (sign-in), RevenueCat and Apple (subscriptions).",
+            "International transfers are made under KVKK Article 9 on the basis of your explicit consent and/or the safeguards prescribed by the Authority."
+          ]
+        },
+        {
+          "title": "Method of collection",
+          "body": [
+            "Your personal data is collected electronically and automatically when you register, create a profile, scan products and otherwise use the mobile app."
+          ]
+        },
+        {
+          "title": "Retention",
+          "body": [
+            "Personal data is kept for the duration of your membership and deleted or anonymized within 30 days after you delete your account. Statutory retention obligations are reserved."
+          ]
+        },
+        {
+          "title": "Your rights under KVKK Article 11",
+          "body": [
+            "To learn whether your personal data is processed; to request information if it is; to learn the purpose and whether it is used accordingly; to know the third parties to whom it is transferred domestically or abroad; to request correction if incomplete or inaccurate; to request erasure or destruction; to request that these actions be notified to third parties; to object to a result against you arising from analysis exclusively by automated systems; to claim compensation for damage caused by unlawful processing."
+          ]
+        },
+        {
+          "title": "How to apply",
+          "body": [
+            "You may submit requests from Settings > Account in the app or in writing to the email address below. Requests are concluded free of charge within 30 days at the latest."
+          ]
+        }
+      ]
+    }
+  }
+}
